@@ -1,6 +1,3 @@
-# auto-shop-bot ✨ 
-_Бот автопродаж в телеграме + админ панель + REST API_
-
 ![python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -20,11 +17,4 @@ _Бот автопродаж в телеграме + админ панель + R
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="15" height="15"/>**REST API** для доступа к БД, авторизации и использования в админке 
 
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="15" height="15"/>**NuxtJS** панель с авторизацей через API и возможностью добавлять/менять/удалять коллекциии и документы 
-
-
-
-
-
-
-
 
