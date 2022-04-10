@@ -15,7 +15,7 @@ _Бот автопродаж в телеграме + админ панель + R
 
 **Система должна состоять из следующих компонентов:**
 
-- ![python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Python Aiogram приложение для функций бота
+#### ![python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Python Aiogram приложение для функций бота
 - ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)MongoDB хранилище коллекций и документов (БД)
 - ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)REST API для доступа к БД, авторизации и использования в админке
 - ![nuxtjs](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) NustJS CRUD панель с авторизацей через API и возможностью
