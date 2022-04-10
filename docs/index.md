@@ -13,7 +13,7 @@ _Бот автопродаж в телеграме + админ панель + R
 
 Система должна состоять из следующих компонентов:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Aiogram** приложение для функций бота <a href="/bot">Читать ТЗ</a></bot>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Aiogram** приложение для функций бота <a href="./bot">Читать ТЗ</a>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/> **MongoDB** хранилище коллекций и документов (БД) 
 
