@@ -13,7 +13,7 @@ _Бот автопродаж в телеграме + админ панель + R
 
 **Система должна состоять из следующих компонентов:**
 
-- Python Aiogram приложение для функций бота
+- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height=20"/> </a> Aiogram приложение для функций бота
 - MongoDB хранилище коллекций и документов (БД)
 - REST API для доступа к БД, авторизации и использования в админке
 - NustJS CRUD панель с авторизацей через API и возможностью
