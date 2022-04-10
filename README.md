@@ -6,8 +6,7 @@ _Бот автопродаж в телеграме + админ панель + R
 ![python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![nuxtjs](https://img.shields.io/badge/nuxt.js-#00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![nuxtjs](https://img.shields.io/badge/nuxt.js-#00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=#001E26)
+![nuxtjs](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
