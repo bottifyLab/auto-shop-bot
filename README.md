@@ -13,7 +13,8 @@ _Бот автопродаж в телеграме + админ панель + R
 
 **Система должна состоять из следующих компонентов:**
 
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></a> Aiogram приложение для функций бота</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Aiogram приложение для функций бота
+
 <p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/></a> MongoDB хранилище коллекций и документов (БД) </p>
 <p align="left"> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="20" height="20"/></a> REST API для доступа к БД, авторизации и использования в админке </p>
 <p align="left"><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="20" height="20"/></a> NustJS CRUD панель с авторизацей через API и возможностью добавлять/менять/удалять коллекциии и документы </p>
