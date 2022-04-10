@@ -1,4 +1,4 @@
-# ✨ auto-shop-bot ✨ 
+# auto-shop-bot ✨ 
 _Бот автопродаж в телеграме + админ панель + REST API_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
