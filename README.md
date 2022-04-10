@@ -4,6 +4,10 @@ _Бот автопродаж в телеграме + админ панель + R
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ![python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![python3](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![python3](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![python3](https://img.shields.io/badge/Python-14354C?style=plastic-square&logo=python&logoColor=white)
+
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![nuxtjs](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
