@@ -3,6 +3,11 @@ _Бот автопродаж в телеграме + админ панель + R
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![python]()
+![mongodb]()
+![nestjs]()
+![nuxtjs]()
+
 
 ## Техническое задание
 > 
