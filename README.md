@@ -11,7 +11,7 @@ _Бот автопродаж в телеграме + админ панель + R
 > 
 > Необходимо разработать телеграм бота автоматических продаж и API - далее "Система".
 
-**Система должна состоять из следующих компонентов:**
+Система должна состоять из следующих компонентов:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Aiogram** приложение для функций бота
 
@@ -19,7 +19,7 @@ _Бот автопродаж в телеграме + админ панель + R
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="15" height="15"/></a> **REST API** для доступа к БД, авторизации и использования в админке 
 
-<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="15" height="15"/></a> **NuxtJS** CRUD панель с авторизацей через API и возможностью добавлять/менять/удалять коллекциии и документы 
+<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="15" height="15"/></a> **NuxtJS** панель с авторизацей через API и возможностью добавлять/менять/удалять коллекциии и документы 
 
 
 ---
